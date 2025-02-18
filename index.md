@@ -14,6 +14,15 @@
 
 - **[ESM 梳理](https://github.com/smallwebbird/blogs/issues/18)**
 
+- **[深入浅出软硬链接](https://github.com/smallwebbird/blogs/issues/19)**
+
+- **[Webpack-前端热更新第一篇](https://github.com/smallwebbird/blogs/issues/20)**
+
+- **[Webpack-前端热更新第二篇](https://github.com/smallwebbird/blogs/issues/21)**
+
+
+
+
 ### CI/CD
 
 - **[从头搭建一个GitLab CI/CD](https://github.com/smallwebbird/blogs/issues/1)**
