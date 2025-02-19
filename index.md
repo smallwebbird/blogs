@@ -4,7 +4,7 @@
 
 ### Node 系列
 
-- **[NodeJS 模块机制](https://github.com/smallwebbird/blogs/issues/13)**
+- **[NodeJS 模块机制](https://github.com/smallwebbird/blogs/issues/13){:target="_blank"}**
 
 ### 构建工具
 
@@ -30,3 +30,5 @@
 ### WebAssembly
 
 - **[WebAssembly 之 Emscripten 安装（MacOS）](https://github.com/smallwebbird/blogs/issues/3)**
+
+- **[WebAssembly 基础概念](https://github.com/smallwebbird/blogs/issues/22)**
