@@ -16,9 +16,9 @@
 
 - **[深入浅出软硬链接](https://github.com/smallwebbird/blogs/issues/19){:target="_blank"}**
 
-- **[Webpack-前端热更新第一篇](https://github.com/smallwebbird/blogs/issues/20){:target="_blank"}**
+- **[Webpack-热更新第一篇](https://github.com/smallwebbird/blogs/issues/20){:target="_blank"}**
 
-- **[Webpack-前端热更新第二篇](https://github.com/smallwebbird/blogs/issues/21){:target="_blank"}**
+- **[Webpack-热更新第二篇](https://github.com/smallwebbird/blogs/issues/21){:target="_blank"}**
 
 
 
